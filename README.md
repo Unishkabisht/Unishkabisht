@@ -1,8 +1,8 @@
 # Hi, I'm Unishka Bisht! 👩‍💻✨
 
 - 👩‍💻 My name is **UNISHKA BISHT**
-- 🏫 I'm currently studying **BCA (4th Semester)** at **Indrapali University**
-- 🌱 I'm currently learning **C++, Python, HTML, CSS, DBMS**
+- 🏫 I'm currently studying **BCA (4th Semester)** at **amrapali University**
+- 🌱 I'm currently learning ** Python,full stack,R,C#**
 - 🎬 I'm also skilled in **Video Editing**
 - 💡 I love exploring new technologies and building things
 - 🎯 My goal is to become a skilled developer and work on real-world projects
