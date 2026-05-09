@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Unishkabisht
-- 👀 I’m interested in web tech and c programming 
-- 🌱 I’m currently learning web and c 
-
-- 📫 How to reach me @unishka@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i love coding
-
-<!---
-Unishkabisht/Unishkabisht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👩‍💻 My name is **UNISHKA BISHT**
+- 🏫 I'm currently studying **BCA (4th Semester)** at **Iniamrapali University**
+- 🌱 I'm currently learning **C++, Python, HTML, CSS, DBMS**
+- 🎬 I'm also skilled in **Video Editing**
+- 💡 I love exploring new technologies and building things
+- 🎯 My goal is to become a skilled developer and work on real-world projects
+- ⚡ Fun fact: **I debug better at midnight 🌙**
