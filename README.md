@@ -1,4 +1,4 @@
-# Hi, I'm Unishka Bisht! 👩‍💻✨
+# ABOUT ME 👩‍💻✨
 
 - 👩‍💻 My name is **UNISHKA BISHT**
 - 🏫 I'm currently studying **BCA (4th Semester)** at **amrapali University**
