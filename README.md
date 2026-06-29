@@ -1,15 +1,31 @@
-# Hi there, I'm Unishka 👋
-### BCA Student • Aspiring Developer | • Code. Create. Grow.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unishka-bisht-46b7b2400)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:unishkabisht@gmail.com)
+
+<h1 align="center"> Hii!👋there UNISHKA BISHT this side 👩‍💻</h1>
+
+<h3 align="center">BCA Student • Aspiring Developer | • Code. Create. Grow.</h3>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/unishka-bisht-46b7b2400">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:unishkabisht@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://unishkabisht.github.io/resume">
+    <img src="https://img.shields.io/badge/Resume-View-8B4513?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### ⚡ overview 
+### ⚡ Overview
 - 🎓 **Currently:** BCA 3rd year, Amrapali University, Haldwani
 - 💼 **Experience:** AIML/Data Science Intern @ YBI Foundation | Content Writing Intern @ InAmigos Foundation
-- 🛠️ **Skills:** Python · HTML · CSS · JavaScript · PHP . Git & GitHub
+- 🛠️ **Skills:** Python · HTML · CSS · JavaScript · PHP · Git & GitHub
 - 📍 **Based in:** Haldwani, Uttarakhand
 - 🌱 **Currently learning:** Web Development & How Artificial Intelligence works
 
@@ -52,12 +68,10 @@ A simple web app to log daily expenses, categorize spending, and track monthly b
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unishkabisht&show_icons=true&theme=default&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Unishkabisht&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=Unishkabisht&theme=default&hide_border=true" alt="GitHub Streak" />
 
 ---
-
-### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unishka-bisht-46b7b2400)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unishkabisht@gmail.com)
-
-*"Learning one commit at a time." 🚀*
+*"building in public, learning in real time." 🚀*
