@@ -1,14 +1,12 @@
 # Hi there, I'm Unishka 👋
-
 ### BCA Student • Aspiring Developer | • Code. Create. Grow.
 
-[![LinkedIn](https://www.linkedin.com/in/unishka-bisht-46b7b2400?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unishka-bisht-46b7b2400)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:unishkabisht@gmail.com)
 
 ---
 
 ### ⚡ Quick Facts
-
 - 🎓 **Currently:** BCA 3rd Semester, Amrapali University, Haldwani
 - 💼 **Experience:** AIML/Data Science Intern @ YBI Foundation | Content Writing Intern @ InAmigos Foundation
 - 🛠️ **Skills:** Python · HTML · CSS · JavaScript · Git & GitHub
@@ -18,7 +16,6 @@
 ---
 
 ### 🙋‍♀️ About Me
-
 I'm a BCA student who loves both tech and creativity —  
 from content writing to building web projects, I enjoy learning by doing.  
 Currently deep-diving into Full Stack Development and exploring new technologies.  
@@ -27,7 +24,6 @@ Also into video editing, Canva, and making things look good. 🎬✨
 ---
 
 ### 🛠️ Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -38,14 +34,12 @@ Also into video editing, Canva, and making things look good. 🎬✨
 ---
 
 ### 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unishkabisht&show_icons=true&theme=default&hide_border=true)
 
 ---
 
 ### 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unishka-bisht-46b7b2400)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unishkabisht@gmail.com)
 
 *"Learning one commit at a time." 🚀*
