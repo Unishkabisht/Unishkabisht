@@ -7,11 +7,11 @@
 ---
 
 ### ⚡ Quick Facts
-- 🎓 **Currently:** BCA 3rd Semester, Amrapali University, Haldwani
+- 🎓 **Currently:** BCA 3rd year, Amrapali University, Haldwani
 - 💼 **Experience:** AIML/Data Science Intern @ YBI Foundation | Content Writing Intern @ InAmigos Foundation
-- 🛠️ **Skills:** Python · HTML · CSS · JavaScript · Git & GitHub
+- 🛠️ **Skills:** Python · HTML · CSS · JavaScript · PHP . Git & GitHub
 - 📍 **Based in:** Haldwani, Uttarakhand
-- 🌱 **Currently learning:** Web Development & Version Control
+- 🌱 **Currently learning:** Web Development & How Artificial Intelligence works
 
 ---
 
