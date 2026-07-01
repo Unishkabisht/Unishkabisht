@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> Hii!👋there UNISHKA BISHT this side 👩‍💻</h1>
 
 <h3 align="center">BCA Student • Aspiring Developer | • Code. Create. Grow.</h3>
