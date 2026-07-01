@@ -75,3 +75,4 @@ A simple web app to log daily expenses, categorize spending, and track monthly b
 
 ---
 *"building in public, learning in real time." 🚀*
+
